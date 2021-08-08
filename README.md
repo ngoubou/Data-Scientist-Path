@@ -13,4 +13,4 @@ for a Data Scientist.
 I added Business cause it's often an overlooked component, but yet important, of the Data Scientist skillset.
 
 The technical skills acquired are only valuable if they have a business application.
-So having an understanding of the business landscape is very important
+So having an understanding of the business landscape is very important.
