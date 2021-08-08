@@ -10,7 +10,9 @@ classes I took.
 The CS are mainly about programming, algorithms and databases as they are (in my opinion) the most important skills
 for a Data Scientist.
 
-I added Business cause it's often an overlooked component, but yet important, of the Data Scientist skillset.
+I included Business cause it's often an overlooked component, but yet important, of the Data Scientist skillset.
 
 The technical skills acquired are only valuable if they have a business application.
 So having an understanding of the business landscape is very important.
+
+In addition, I listed the books that I read during my journey. They are classified the same way as the courses.
