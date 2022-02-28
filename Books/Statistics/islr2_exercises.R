@@ -51,5 +51,13 @@ library(tidyverse)
       # the relationship doesn't appear to be linear as displayed in the top left plot
       # variance of errors doesn't seem equal
       # some points have high leverage
+
+      
+# 9. This question involves the use of multiple linear regression on the Auto data set. 
+  # (a) Produce a scatterplot matrix which includes all of the variables in the data set.
+      plot(Auto)
+  # (b) Compute the matrix of correlations between the variables using the function cor(). 
+      # You will need to exclude the name variable, which is qualitative.
+      cor(Auto[,-9])
   
 
